@@ -1,0 +1,2 @@
+To run program, open Eclipse and add the CircleOfLife folder to your workspace. Once inside your workspace, open the CircleOfLife Class and run the program. You can either pick one of the text files included in the folder to run the simulation, or have the program generate one randomly.
+Each txt file has a "solution" txt file associated with it which shows what the output should be for a specified number of cycles. For example the "1-1cycle.txt" file contains what the "1-3x3.txt" file should output after 1 cycle. 
